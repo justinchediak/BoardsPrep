@@ -24,7 +24,6 @@ def main():
         raise SystemExit("could not find EXAM_2025 / ALL_EXAMS anchors")
 
     content = content[: m_start.start()] + new_const + content[m_end.start() :]
-    content = content.replace('"2024": EXAM_2024', '"2025": EXAM_2025')
     JSX.write_text(content, encoding="utf-8", newline="\n")
     print(f"Updated {JSX}")
 
