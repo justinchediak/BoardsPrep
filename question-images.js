@@ -1,4 +1,76 @@
 export const QUESTION_IMAGES = {
+  "2023": {
+    1: [
+      {
+        src: "/question-images/2023/1-1.png",
+        alt: "Clinical image for 2023 question 1"
+      }
+    ],
+    24: [
+      {
+        src: "/question-images/2023/24-1.png",
+        alt: "Clinical image for 2023 question 24"
+      }
+    ],
+    49: [
+      {
+        src: "/question-images/2023/49-1.png",
+        alt: "Clinical image 1 for 2023 question 49"
+      },
+      {
+        src: "/question-images/2023/49-2.png",
+        alt: "Clinical image 2 for 2023 question 49"
+      }
+    ],
+    68: [
+      {
+        src: "/question-images/2023/68-1.png",
+        alt: "Clinical image 1 for 2023 question 68"
+      },
+      {
+        src: "/question-images/2023/68-2.png",
+        alt: "Clinical image 2 for 2023 question 68"
+      },
+      {
+        src: "/question-images/2023/68-3.png",
+        alt: "Clinical image 3 for 2023 question 68"
+      }
+    ],
+    82: [
+      {
+        src: "/question-images/2023/82-1.png",
+        alt: "Clinical image for 2023 question 82"
+      }
+    ],
+    101: [
+      {
+        src: "/question-images/2023/101-1.png",
+        alt: "Clinical image for 2023 question 101"
+      }
+    ],
+    131: [
+      {
+        src: "/question-images/2023/131-1.png",
+        alt: "Clinical image 1 for 2023 question 131"
+      },
+      {
+        src: "/question-images/2023/131-2.png",
+        alt: "Clinical image 2 for 2023 question 131"
+      }
+    ],
+    150: [
+      {
+        src: "/question-images/2023/150-1.png",
+        alt: "Clinical image for 2023 question 150"
+      }
+    ],
+    186: [
+      {
+        src: "/question-images/2023/186-1.png",
+        alt: "Clinical image for 2023 question 186"
+      }
+    ]
+  },
   "2024": {
     51: [
       {
